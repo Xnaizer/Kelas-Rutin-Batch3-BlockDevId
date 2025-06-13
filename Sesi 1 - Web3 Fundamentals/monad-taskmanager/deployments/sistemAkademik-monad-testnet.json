@@ -1,0 +1,9 @@
+{
+  "contractAddress": "0xB0784f429bf23b3ee9D97E93B3B5ED83F0B3e916",
+  "deployerAddress": "0x3ff8C245C6499062A98Ed214EA606Ec5fa2627Dd",
+  "network": "monadTestnet",
+  "chainId": "10143",
+  "blockExplorer": "https://testnet.monadexplorer.com/address/0xB0784f429bf23b3ee9D97E93B3B5ED83F0B3e916",
+  "timestamp": "2025-06-13T13:55:49.323Z",
+  "txHash": "0xfb48f05c4f8fef2c6514772e2f99b2d08fcf670ea2f1dea1e872545c9a1e4f8c"
+}
